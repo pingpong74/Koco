@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["DecodeError","ParseAction","ParseState"],"fn":["parse_bytes","parse_words"],"mod":["assemble","autogen_error","decoder","disassemble","parser","tracker"],"struct":["Decoder","Parser"],"trait":["Assemble","Consumer","Disassemble"],"type":["ParseResult"]};

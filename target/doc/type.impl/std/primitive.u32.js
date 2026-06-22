@@ -1,9 +1,0 @@
-(function() {
-    var type_impls = Object.fromEntries([["rspirv",[["<details class=\"toggle implementors-toggle\" open><summary><section id=\"impl-DisassembleLiteralBit-for-u32\" class=\"impl\"><a class=\"src rightside\" href=\"src/rspirv/binary/disassemble.rs.html#221-229\">Source</a><a href=\"#impl-DisassembleLiteralBit-for-u32\" class=\"anchor\">§</a><h3 class=\"code-header\">impl <a class=\"trait\" href=\"rspirv/binary/disassemble/trait.DisassembleLiteralBit.html\" title=\"trait rspirv::binary::disassemble::DisassembleLiteralBit\">DisassembleLiteralBit</a> for <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.96.0/std/primitive.u32.html\">u32</a></h3></section></summary><div class=\"impl-items\"><section id=\"method.disas_literal_bit\" class=\"method trait-impl\"><a class=\"src rightside\" href=\"src/rspirv/binary/disassemble.rs.html#222-228\">Source</a><a href=\"#method.disas_literal_bit\" class=\"anchor\">§</a><h4 class=\"code-header\">fn <a href=\"rspirv/binary/disassemble/trait.DisassembleLiteralBit.html#tymethod.disas_literal_bit\" class=\"fn\">disas_literal_bit</a>(value: <a class=\"primitive\" href=\"https://doc.rust-lang.org/1.96.0/std/primitive.u32.html\">u32</a>, literal_type: &amp;<a class=\"enum\" href=\"rspirv/binary/tracker/enum.Type.html\" title=\"enum rspirv::binary::tracker::Type\">Type</a>) -&gt; <a class=\"struct\" href=\"https://doc.rust-lang.org/1.96.0/alloc/string/struct.String.html\" title=\"struct alloc::string::String\">String</a></h4></section></div></details>","DisassembleLiteralBit","rspirv::sr::storage::Index"]]]]);
-    if (window.register_type_impls) {
-        window.register_type_impls(type_impls);
-    } else {
-        window.pending_type_impls = type_impls;
-    }
-})()
-//{"start":55,"fragment_lengths":[1526]}

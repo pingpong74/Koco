@@ -1,9 +1,0 @@
-(function() {
-    const implementors = Object.fromEntries([["bitflags",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.96.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"struct\" href=\"bitflags/parser/struct.ParseError.html\" title=\"struct bitflags::parser::ParseError\">ParseError</a>",0]]],["rspirv",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.96.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rspirv/binary/enum.DecodeError.html\" title=\"enum rspirv::binary::DecodeError\">Error</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.96.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rspirv/binary/enum.ParseState.html\" title=\"enum rspirv::binary::ParseState\">State</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.96.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rspirv/dr/enum.Error.html\" title=\"enum rspirv::dr::Error\">Error</a>",0],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.96.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rspirv/dr/enum.Operand.html\" title=\"enum rspirv::dr::Operand\">Operand</a>",0]]]]);
-    if (window.register_implementors) {
-        window.register_implementors(implementors);
-    } else {
-        window.pending_implementors = implementors;
-    }
-})()
-//{"start":59,"fragment_lengths":[294,1045]}

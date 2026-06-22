@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ExtOperandKind"],"static":["DEBUGINFO_INSTRUCTION_TABLE"]};

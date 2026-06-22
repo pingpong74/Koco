@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["HEADER_NUM_WORDS","WORD_NUM_BYTES"],"enum":["Action","State"],"fn":["parse_bytes","parse_words"],"struct":["Parser"],"trait":["Consumer"],"type":["GInstRef","Result"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Type"],"struct":["ExtInstSetTracker","TypeTracker"],"type":["GExtInstRef"]};

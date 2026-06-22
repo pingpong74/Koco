@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"static":["TOSA_001000_1_INSTRUCTION_TABLE"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["WORD_NUM_BYTES"],"struct":["Decoder"],"type":["Result"]};

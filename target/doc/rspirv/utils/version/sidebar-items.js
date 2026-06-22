@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["create_version_from_word","create_word_from_version"]};
