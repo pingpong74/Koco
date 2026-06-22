@@ -1,0 +1,11 @@
+/home/pingy/Projects/warp/target/debug/deps/bitflags-da59dd6517dcdc1a.d: /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/lib.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/iter.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/parser.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/traits.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/public.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/internal.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/external.rs
+
+/home/pingy/Projects/warp/target/debug/deps/libbitflags-da59dd6517dcdc1a.rmeta: /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/lib.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/iter.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/parser.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/traits.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/public.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/internal.rs /home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/external.rs
+
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/lib.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/iter.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/parser.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/traits.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/public.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/internal.rs:
+/home/pingy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.11.0/src/external.rs:

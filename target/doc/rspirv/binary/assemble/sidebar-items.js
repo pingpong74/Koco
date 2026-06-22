@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["assemble_str"],"trait":["Assemble"]};

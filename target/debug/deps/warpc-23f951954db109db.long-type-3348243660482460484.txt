@@ -1,0 +1,1 @@
+Map<std::slice::Iter<'_, resolver::ResolvedParameter>, {closure@warpc/src/type_checking/type_checker.rs:44:60: 44:67}>

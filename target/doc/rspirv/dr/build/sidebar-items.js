@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["InsertPoint"],"struct":["Builder"],"type":["BuildResult"]};

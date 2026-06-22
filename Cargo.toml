@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "koco_core",
+]
+resolver = "3"

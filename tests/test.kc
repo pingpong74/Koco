@@ -1,0 +1,38 @@
+#layout(set = 0, binding = 0) float3 oo;
+#layout(_push_constant) u32 kaboom;
+
+const oo: bool = true;
+
+enum B {
+    Lol(u32),
+    Ball(float3),
+    Meow,
+}
+
+struct A {
+    a: u32,
+    b: float3,
+}
+
+impl A {
+    const pop: bool = false;
+
+    fn yay() {}
+}
+
+fn test(o: float3, y: float3) -> float3 {
+    return o + y;
+}
+
+#[vertex]
+fn main(y: float3, z: float3, b: bool) -> float3 {
+
+    if b {
+        let lklk = 0;
+    } else {
+        let ggg = 90;
+    };
+
+    let x = z + y;
+    return test(z, x);
+}
