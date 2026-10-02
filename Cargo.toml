@@ -1,5 +1,11 @@
+[package]
+name = "koco"
+version = "0.1.0"
+edition = "2024"
+
 [workspace]
 members = [
-    "koco_core",
+    "crates/koco_span",
+    "crates/koco_syntax"
 ]
 resolver = "3"
